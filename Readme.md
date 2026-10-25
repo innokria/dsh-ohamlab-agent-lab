@@ -30,7 +30,7 @@ python -m pip install ohamlab-agent
 Install this DSH bundle into the web profile:
 
 ```bash
-dsh plugin --profile web add github:innokria/dsh-prefix-ohamlab-agent-lab
+dsh plugin --profile web add github:innokria/dsh-ohamlab-agent-lab
 ```
 
 Restart the profile after installation if required by your DSH version.
