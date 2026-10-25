@@ -1,4 +1,4 @@
-# DSH Prefix — OhamLab Agent Lab
+# DSH Plugin — OhamLab Agent Lab
 
 DeepSeek Harness integration for [OhamLab Agent Lab](https://github.com/innokria/ohamlab-agent-lab).
 
