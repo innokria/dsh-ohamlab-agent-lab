@@ -73,8 +73,8 @@ ohamlab_get_report
 ## Development
 
 ```bash
-git clone https://github.com/innokria/dsh-prefix-ohamlab-agent-lab.git
-cd dsh-prefix-ohamlab-agent-lab
+git clone https://github.com/innokria/dsh-ohamlab-agent-lab.git
+cd dsh-ohamlab-agent-lab
 ```
 
 Inspect the plugin configuration:
