@@ -35,7 +35,30 @@ The integration is designed to expose:
 - Individual and combined Markdown reports
 
 These capabilities become available through DSH as their corresponding native tools are implemented and tested.
+## Tool exposed
+```
+ohamlab_create_agent
 
+
+
+ohamlab_clone_agent
+
+
+
+ohamlab_assign_task
+
+
+
+ohamlab_run_agent
+
+
+
+ohamlab_run_swarm
+
+
+
+ohamlab_get_report
+```
 ## Development
 
 ```bash
