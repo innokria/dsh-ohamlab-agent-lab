@@ -1,5 +1,16 @@
 # DSH Plugin — OhamLab Agent Lab
-
+## GOAL
+```
+User asks DSH to create an agent
+          ↓
+ohamlab_create_agent (registered JS tool)
+          ↓
+JS plugin invokes Python package
+          ↓
+ohamlab-agent-lab creates the agent
+          ↓
+Result returned to DSH
+```
 DeepSeek Harness integration for [OhamLab Agent Lab](https://github.com/innokria/ohamlab-agent-lab).
 
 ## Core project
