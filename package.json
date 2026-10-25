@@ -1,7 +1,7 @@
 
 {
   "name": "dsh-prefix-ohamlab-agent-lab",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "description": "DeepSeek Harness integration for OhamLab Agent Lab",
   "license": "MIT",
   "type": "module",
